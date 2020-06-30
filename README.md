@@ -20,6 +20,6 @@ The schematic and the BOM (from LCSC, parts might not be available) are in the /
 ## Preview of the PCB
 
 <p>
-  <img src="img/top.svg" alt="drawing" width="450"/>
-  <img src="img/bottom.svg" alt="drawing" width="450"/>
+  <img src="img/top.svg" alt="drawing" width="350"/>
+  <img src="img/bottom.svg" alt="drawing" width="350"/>
 </p>
