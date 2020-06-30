@@ -1,5 +1,5 @@
 # Arduino_LoRa_EBYTE_devBoard
-> A developpment board based on the ATmega328p to test new EBYTE LoRa modules.
+> A developpment board based on the ATmega328p to test new EBYTE LoRa modules. In partnership with Université Côte d'Azur.
 
 [![License](http://img.shields.io/:license-mit-blue.svg)](http://doge.mit-license.org)
 ![madewith](https://img.shields.io/badge/made%20with-KiCad-blue)
